@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Yash Patadiya</h1>
 
-<h3 align="center">Founder @ Manasitra 🧠 | Developer @ Udaan Works 🚀 | Building AI-powered products & modern web apps</h3>
+<h3 align="center">Founder & CEO at ManSitra | AI Developer | BCA Student | Building AI solutions for Mental Wellness</h3>
 
 <p align="center">
   <a href="https://www.udaanworks.com/" target="_blank">
