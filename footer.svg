@@ -1,0 +1,20 @@
+<svg width="900" height="110" viewBox="0 0 900 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#FF007F" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#FF7A00" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="footWave2" x1="100%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#7928CA" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#00C49F" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="110" fill="#0D1117" rx="12"/>
+
+  <!-- Inverted Waving Footer Paths -->
+  <path d="M0,40 C160,85 300,10 460,55 C620,100 760,25 900,60 L900,110 L0,110 Z" fill="url(#footWave1)"/>
+  <path d="M0,65 C140,20 290,95 470,45 C650,-5 770,75 900,35 L900,110 L0,110 Z" fill="url(#footWave2)"/>
+</svg>

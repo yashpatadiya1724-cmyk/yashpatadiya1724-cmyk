@@ -1,0 +1,75 @@
+<svg width="900" height="210" viewBox="0 0 900 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#4FACFE" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#000DFF" stop-opacity="0.3"/>
+    </linearGradient>
+
+    <linearGradient id="wave2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928CA" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#FF007F" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#FF7A00" stop-opacity="0.6"/>
+    </linearGradient>
+
+    <linearGradient id="wave3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C49F" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#00F2FE" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#9B51E0" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="70%" stop-color="#F3F4F6"/>
+      <stop offset="100%" stop-color="#00F2FE"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        font-size: 48px;
+        letter-spacing: -0.5px;
+      }
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        font-size: 19px;
+        letter-spacing: 0.5px;
+      }
+      .dot {
+        fill: #00F2FE;
+        filter: drop-shadow(0px 0px 6px #00F2FE);
+      }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="900" height="210" fill="#0D1117" rx="12"/>
+
+  <!-- Layer 1: Back Wave -->
+  <path d="M0,130 C150,90 280,180 450,130 C620,80 750,170 900,120 L900,0 L0,0 Z" fill="url(#wave1)"/>
+
+  <!-- Layer 2: Middle Vibrant Wave -->
+  <path d="M0,110 C180,160 320,60 500,120 C680,180 780,90 900,135 L900,0 L0,0 Z" fill="url(#wave2)"/>
+
+  <!-- Layer 3: Foreground Dynamic Wave -->
+  <path d="M0,85 C140,40 290,130 460,75 C630,20 760,110 900,60 L900,0 L0,0 Z" fill="url(#wave3)"/>
+
+  <!-- Text Content -->
+  <!-- Main Name Title -->
+  <text x="50%" y="125" text-anchor="middle" fill="url(#textGrad)" class="title" filter="drop-shadow(0px 4px 12px rgba(0,0,0,0.7))">
+    Yash Patadiya
+  </text>
+
+  <!-- Subtitle with Glowing Accent Dot -->
+  <text x="50%" y="165" text-anchor="middle" fill="#00F2FE" class="subtitle" filter="drop-shadow(0px 2px 8px rgba(0,0,0,0.8))">
+    Founder &amp; CEO @ Mansitra  •  Full-Stack AI Developer
+  </text>
+</svg>

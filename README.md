@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Colorful Aurora Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12,20,24&height=210&section=header&text=Yash%20Patadiya&fontSize=50&fontAlignY=36&desc=Founder%20%26%20CEO%20%40%20Mansitra%20%E2%80%A2%20Full-Stack%20AI%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Colorful Aurora Gradient Banner (Hosted directly in repo for 100% uptime & no broken links) -->
+  <img src="https://raw.githubusercontent.com/yashpatadiya1724-cmyk/yashpatadiya1724-cmyk/main/header.svg" width="100%" alt="Yash Patadiya - Header Banner" />
 
   <!-- Animated Multi-Color Typing Header -->
   <a href="https://github.com/yashpatadiya1724-cmyk">
@@ -206,7 +206,7 @@
 
   <br/><br/>
 
-  <!-- Colorful Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12,20,24&height=110&section=footer" width="100%" alt="Footer Wave" />
+  <!-- Colorful Footer Banner (Hosted directly in repo) -->
+  <img src="https://raw.githubusercontent.com/yashpatadiya1724-cmyk/yashpatadiya1724-cmyk/main/footer.svg" width="100%" alt="Footer Wave" />
 
 </div>
