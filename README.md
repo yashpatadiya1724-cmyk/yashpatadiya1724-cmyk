@@ -18,17 +18,17 @@ Founder of **[Mansitra](https://www.mansitra.in)** and full-stack developer from
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **[Mansitra](https://github.com/yashpatadiya1724-cmyk/mansitra_APP)** | AI-powered mental wellness companion for students | Next.js, TypeScript, OpenAI, MongoDB | [Live](https://www.mansitra.in) · [Code](https://github.com/yashpatadiya1724-cmyk/mansitra_APP) |
-| **[MediQ OPD](https://github.com/yashpatadiya1724-cmyk/OPD)** | Clinic queue, token and appointment management | React, Node.js, Express, PostgreSQL, Redis | [Code](https://github.com/yashpatadiya1724-cmyk/OPD) |
-| **[VidPulse AI](https://github.com/yashpatadiya1724-cmyk/vidpulse-ai)** | Video engagement analytics for creators | TypeScript, Python, FastAPI, Node.js | [Code](https://github.com/yashpatadiya1724-cmyk/vidpulse-ai) |
-| **[CipherNest](https://github.com/yashpatadiya1724-cmyk/ciphernest-v3-railway)** | Credential vault, deployed on Railway | Node.js, Express, Docker | [Code](https://github.com/yashpatadiya1724-cmyk/ciphernest-v3-railway) |
+| **[Mansitra](https://github.com/yashpatadiya1724-cmyk/mansitra_APP)** | Empathetic multilingual AI mental wellness companion for students | React 19, Supabase, Groq LLaMA 3.3, Tailwind | [Live](https://www.mansitra.in) · [Code](https://github.com/yashpatadiya1724-cmyk/mansitra_APP) |
+| **[MediQ OPD](https://github.com/yashpatadiya1724-cmyk/OPD)** | Smart clinic queue, token pacing & triage automation platform | React 19, Firebase Firestore, Cloud Functions | [Live](https://smart-opd-queue-tracker.web.app) · [Code](https://github.com/yashpatadiya1724-cmyk/OPD) |
+| **[VidPulse AI](https://github.com/yashpatadiya1724-cmyk/vidpulse-ai)** | Video engagement analytics & drop-off detection using optical flow | Next.js 14, Python, FastAPI, OpenCV | [Code](https://github.com/yashpatadiya1724-cmyk/vidpulse-ai) |
+| **[CipherNest](https://github.com/yashpatadiya1724-cmyk/ciphernest-v3-railway)** | Security vault with server-side AES encryption and 2FA TOTP | Node.js, Express, MongoDB, otplib | [Code](https://github.com/yashpatadiya1724-cmyk/ciphernest-v3-railway) |
 
 ## Tech Stack
-- **Languages:** TypeScript, JavaScript, Python
+- **Languages:** TypeScript, JavaScript, Python, SQL
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, Flask, FastAPI
-- **Databases:** MongoDB, PostgreSQL, Firebase, Redis
-- **Tools:** Git, Docker, Vercel, Railway
+- **Backend & APIs:** Node.js, Express, FastAPI
+- **Databases & State:** Supabase (PostgreSQL), Firebase Firestore, MongoDB, LocalForage
+- **Tools & DevOps:** Git, Docker, GitHub Actions, Vercel, Railway
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/yash-patadiya-973161272/) · [Instagram](https://www.instagram.com/yash_patadiya_1724) · [YouTube](https://youtube.com/@buildwithyaarlog.exe01) · [X](https://x.com/yashptadiya1724) · [Email](mailto:yashpatadiya1724@gmail.com) · [Mansitra](https://www.mansitra.in)
