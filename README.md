@@ -36,5 +36,8 @@ Focused on clean architecture, resilient backend system design, and pragmatic, p
 
 ## Contact
 - **LinkedIn:** [linkedin.com/in/yash-patadiya-973161272](https://www.linkedin.com/in/yash-patadiya-973161272/)
+- **X (Twitter):** [x.com/yashptadiya1724](https://x.com/yashptadiya1724)
+- **YouTube:** [youtube.com/@buildwithyaarlog.exe01](https://youtube.com/@buildwithyaarlog.exe01)
+- **Instagram:** [instagram.com/yash_patadiya_1724](https://www.instagram.com/yash_patadiya_1724)
 - **Email:** [yashpatadiya1724@gmail.com](mailto:yashpatadiya1724@gmail.com)
 - **Website:** [mansitra.in](https://www.mansitra.in)
