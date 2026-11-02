@@ -1,43 +1,224 @@
-# Yash Patadiya
+<div align="center">
 
-Full-stack engineer building AI-driven healthcare, student mental wellness, and real-time distributed platforms.
-Focused on clean architecture, resilient backend system design, and pragmatic, production-ready code.
+  <!-- Colorful Aurora Gradient Banner (Hosted directly in repo for 100% uptime & no broken links) -->
+  <img src="https://raw.githubusercontent.com/yashpatadiya1724-cmyk/yashpatadiya1724-cmyk/main/header.svg" width="100%" alt="Yash Patadiya - Header Banner" />
 
-## Currently Working On
-- Scaling **Mansitra**, an empathetic multilingual mental wellness companion for students in India.
-- Productionizing **MediQ OPD**, a smart clinic queue management, patient triage, and healthcare delivery platform.
+  <!-- Animated Multi-Color Typing Header -->
+  <a href="https://github.com/yashpatadiya1724-cmyk">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&lines=%E2%9C%A8+Founder+%26+CEO+at+Mansitra;%F0%9F%A7%A0+Building+AI+for+Mental+Wellness+%26+HealthTech;%F0%9F%8F%A5+Creator+of+MediQ+OPD+Management+System;%F0%9F%9A%80+Full-Stack+Engineer+%7C+TypeScript+%26+Python" alt="Typing Banner" />
+  </a>
 
-## Featured Projects
+  <br/>
 
-- **[Mansitra](https://github.com/yashpatadiya1724-cmyk/mansitra_APP)** — Empathetic multilingual AI mental wellness companion for students combating academic burnout and stress.
-  [Live Demo](https://www.mansitra.in) | [Repository](https://github.com/yashpatadiya1724-cmyk/mansitra_APP)
+  <!-- Sleek Compact Social & Media Badges (Properly Sized with Verified Real Links) -->
+  <p align="center">
+    <a href="https://www.mansitra.in" target="_blank">
+      <img src="https://img.shields.io/badge/Mansitra.in-00C49F?style=flat-square&logo=googlechrome&logoColor=white" height="22" alt="Website" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/yash-patadiya-973161272/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/yash_patadiya_1724" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="22" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://x.com/yashptadiya1724" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter_%2F_X-1DA1F2?style=flat-square&logo=x&logoColor=white" height="22" alt="Twitter / X" />
+    </a>
+    &nbsp;
+    <a href="https://youtube.com/@buildwithyaarlog.exe01" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="22" alt="YouTube" />
+    </a>
+    &nbsp;
+    <a href="mailto:yashpatadiya1724@gmail.com">
+      <img src="https://img.shields.io/badge/Email-FF7A00?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Email" />
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=yashpatadiya1724-cmyk&label=Views&color=ff007f&style=flat-square" height="22" alt="Views" />
+  </p>
 
-- **[MediQ OPD](https://github.com/yashpatadiya1724-cmyk/OPD)** — Smart clinic queue management, RBAC patient triage, and hyperlocal pharmacy delivery platform.
-  [Live Demo](TODO: add live link) | [Repository](https://github.com/yashpatadiya1724-cmyk/OPD)
+</div>
 
-- **[FitVerse AI](https://github.com/yashpatadiya1724-cmyk/FITVERSEAI)** — Cyberpunk AI fitness ecosystem with GraphQL payload optimization and Redis streak leaderboards.
-  [Live Demo](TODO: add live link) | [Repository](https://github.com/yashpatadiya1724-cmyk/FITVERSEAI)
+---
 
-- **[CipherNest](https://github.com/yashpatadiya1724-cmyk/project_ciphernest)** — Production SIEM intelligence platform with Kafka-partitioned log stream and TimescaleDB time-series threat engine.
-  [Live Demo](TODO: add live link) | [Repository](https://github.com/yashpatadiya1724-cmyk/project_ciphernest)
+### 🌟 About Me & Vision
 
-- **[PyCDN](https://github.com/yashpatadiya1724-cmyk/cdn_system)** — Distributed Content Delivery Network with edge LRU caching, SHA-256 ETag validation, and round-robin load balancing.
-  [Live Demo](TODO: add live link) | [Repository](https://github.com/yashpatadiya1724-cmyk/cdn_system)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
 
-- **[VidPulse AI](https://github.com/yashpatadiya1724-cmyk/vidpulse-ai)** — Video engagement analytics engine analyzing attention drop-off and hook retention.
-  [Live Demo](TODO: add live link) | [Repository](https://github.com/yashpatadiya1724-cmyk/vidpulse-ai)
+<br/>
 
-## Tech Stack
-- **Languages:** TypeScript, JavaScript, Python, SQL
-- **Frontend:** React, Next.js, Tailwind CSS, HTML5 / Modern Web Standards
-- **Backend & APIs:** Node.js, Express, FastAPI, GraphQL, REST
-- **Databases & Caching:** PostgreSQL (TimescaleDB), MongoDB, Redis (LRU, Sorted Sets), ChromaDB / pgvector
-- **Streaming & DevOps:** Kafka / RabbitMQ patterns, Docker, Git, GitHub Actions CI/CD, Railway, Vercel
+> 🚀 **Hi! I'm Yash Patadiya** — an entrepreneur, full-stack AI engineer, and BCA student from **Gandhinagar, Gujarat, India**.  
+> I am the Founder & CEO of **[Mansitra](https://www.mansitra.in)** and developer of impactful HealthTech & AI solutions like **MediQ OPD**. My passion is solving real-world challenges in healthcare, education, and user productivity through clean engineering and empathetic AI.
 
-## Contact
-- **LinkedIn:** [linkedin.com/in/yash-patadiya-973161272](https://www.linkedin.com/in/yash-patadiya-973161272/)
-- **X (Twitter):** [x.com/yashptadiya1724](https://x.com/yashptadiya1724)
-- **YouTube:** [youtube.com/@buildwithyaarlog.exe01](https://youtube.com/@buildwithyaarlog.exe01)
-- **Instagram:** [instagram.com/yash_patadiya_1724](https://www.instagram.com/yash_patadiya_1724)
-- **Email:** [yashpatadiya1724@gmail.com](mailto:yashpatadiya1724@gmail.com)
-- **Website:** [mansitra.in](https://www.mansitra.in)
+---
+
+### 🚀 Featured Case Studies & Creations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🧠 Mansitra AI</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Live-00C49F?style=flat-square" />
+<img src="https://img.shields.io/badge/Role-Founder_&_CEO-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Domain-Mental_Health-blueviolet?style=flat-square" />
+</p>
+<p>Empathetic 24/7 AI-powered conversational mental health companion built for students to combat academic burnout, stress, and anxiety.</p>
+<ul>
+<li>Context-aware empathetic dialogues tailored to student psychology</li>
+<li>Privacy-first emotional tracking, mood analytics & self-care routines</li>
+<li>Zero-stigma confidential safe space</li>
+</ul>
+<p align="center">
+<code>Next.js</code> • <code>TypeScript</code> • <code>OpenAI</code> • <code>Tailwind</code> • <code>MongoDB</code>
+</p>
+<p align="center">
+<a href="https://www.mansitra.in/"><img src="https://img.shields.io/badge/Visit_Platform_↗-00C49F?style=flat-square&logo=googlechrome&logoColor=white" height="20" /></a>
+&nbsp;
+<a href="https://github.com/yashpatadiya1724-cmyk/mansitra_APP"><img src="https://img.shields.io/badge/Source_Code_↗-181717?style=flat-square&logo=github&logoColor=white" height="20" /></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🏥 MediQ OPD</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Category-HealthTech-00F2FE?style=flat-square" />
+<img src="https://img.shields.io/badge/System-Smart_OPD-FF7A00?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+</p>
+<p>Modern Outpatient Department (OPD) & clinic workflow automation suite engineered to eliminate patient queues and digitize medical records.</p>
+<ul>
+<li>Real-time patient queue & token tracking system with Redis locks</li>
+<li>Role-based access control (Admin, Doctor, Receptionist, Pharmacy)</li>
+<li>Optimized bundle size and fast electronic health records (EHR) lookup</li>
+</ul>
+<p align="center">
+<code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>PostgreSQL</code> • <code>Redis</code>
+</p>
+<p align="center">
+<a href="https://github.com/yashpatadiya1724-cmyk/OPD"><img src="https://img.shields.io/badge/Explore_MediQ_↗-00F2FE?style=flat-square&logo=github&logoColor=black" height="20" /></a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">📊 VidPulse AI</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Domain-Video_Intelligence-3178C6?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-TypeScript-blue?style=flat-square" />
+</p>
+<p>AI-driven video engagement analytics engine modeling viewer attention drop-off points before content publishing.</p>
+<ul>
+<li>Algorithmic timeline retention analysis & attention drop prediction</li>
+<li>Creator pacing recommendations and automated heuristics</li>
+</ul>
+<p align="center">
+<code>TypeScript</code> • <code>Python</code> • <code>FastAPI</code> • <code>AI Analytics</code>
+</p>
+<p align="center">
+<a href="https://github.com/yashpatadiya1724-cmyk/vidpulse-ai"><img src="https://img.shields.io/badge/Explore_Repo_↗-3178C6?style=flat-square&logo=github&logoColor=white" height="20" /></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🛡️ CipherNest</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Domain-Cloud_Security-FF3366?style=flat-square" />
+<img src="https://img.shields.io/badge/Deploy-Railway-0B0D0E?style=flat-square" />
+</p>
+<p>Secure AES-256 encrypted credential vault providing multi-tenant isolation, 2FA OTP verification, and automated cloud deployment.</p>
+<ul>
+<li>AES-256 authenticated encryption & secret sharing</li>
+<li>Two-factor authentication with otplib & containerized pipeline</li>
+</ul>
+<p align="center">
+<code>Node.js</code> • <code>Express</code> • <code>Crypto API</code> • <code>Docker</code>
+</p>
+<p align="center">
+<a href="https://github.com/yashpatadiya1724-cmyk/ciphernest-v3-railway"><img src="https://img.shields.io/badge/Explore_Repo_↗-FF3366?style=flat-square&logo=github&logoColor=white" height="20" /></a>
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+### 🎨 Tech Arsenal & Skills
+
+<div align="center">
+
+  <p><b>⚡ Core Languages & Foundations</b></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" alt="Languages" />
+  <br/><br/>
+
+  <p><b>⚛️ Modern Frontend & UI</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass&theme=dark" alt="Frontend" />
+  <br/><br/>
+
+  <p><b>🧠 AI, Backend & Databases</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis&theme=dark" alt="Backend" />
+  <br/><br/>
+
+  <p><b>☁️ Cloud Infrastructure & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,railway,git,github,postman,vscode&theme=dark" alt="DevOps" />
+
+</div>
+
+---
+
+### 📈 Activity & GitHub Radar
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=yashpatadiya1724-cmyk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7A00&icon_color=00F2FE&text_color=FFFFFF" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatadiya1724-cmyk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&text_color=FFFFFF" height="160" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpatadiya1724-cmyk&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=FF7A00&currStreakLabel=00F2FE" height="150" alt="Streak" />
+</div>
+
+---
+
+### 📬 Get In Touch
+
+<div align="center">
+
+  <p>Interested in <b>Mansitra</b>, <b>MediQ OPD</b>, AI collaborations, or speaking invites? Let's connect!</p>
+
+  <a href="https://www.linkedin.com/in/yash-patadiya-973161272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/yashptadiya1724" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter_%2F_X-1DA1F2?style=flat-square&logo=x&logoColor=white" height="22" alt="Twitter / X" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@buildwithyaarlog.exe01" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="22" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/yash_patadiya_1724" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="22" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:yashpatadiya1724@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF7A00?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.mansitra.in" target="_blank">
+    <img src="https://img.shields.io/badge/Mansitra-00C49F?style=flat-square&logo=googlechrome&logoColor=white" height="22" alt="Website" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Colorful Footer Banner (Hosted directly in repo) -->
+  <img src="https://raw.githubusercontent.com/yashpatadiya1724-cmyk/yashpatadiya1724-cmyk/main/footer.svg" width="100%" alt="Footer Wave" />
+
+</div>
